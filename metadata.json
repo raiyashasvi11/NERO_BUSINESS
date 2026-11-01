@@ -1,0 +1,6 @@
+{
+  "name": "Nero",
+  "description": "Every enquiry and repair, in one place. Handcrafted system for business owners in Chennai by Yashasvi Rai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
